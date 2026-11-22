@@ -38,5 +38,3 @@ This repository currently documents the analysis described in the group report. 
 - `report/` â a public-safe, permission-cleared report or selected extracts, if appropriate
 - `figures/` â charts recreated from the analysis, if available
 
-## Academic integrity and attribution
-This work was completed collaboratively for STAT305 at the University of KwaZulu-Natal. Before publishing the original group report, dataset or other contributors' materials, obtain the necessary permission and remove personal student numbers and other private details.

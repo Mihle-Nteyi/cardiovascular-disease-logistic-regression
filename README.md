@@ -32,12 +32,6 @@ This was a group university assignment. I was listed as a member of Group N. I a
 ## Limitations and notes
 This repository currently documents the analysis described in the group report. The original dataset and complete executable SAS project files have not yet been added. The report's findings are associations in the analysed sample and should not be interpreted as proof of causation or as a clinical diagnostic tool.
 
-## Planned repository contents
-- `README.md` â project overview and methods
-- `code/` â SAS scripts, once checked and added
-- `report/` â a public-safe, permission-cleared report or selected extracts, if appropriate
-- `figures/` â charts recreated from the analysis, if available
-
 ## Results: Cardiovascular Disease Distribution
 
 The study included 4,238 participants. Of these, 644 (15.2%) had cardiovascular disease, while 3,594 (84.8%) did not.

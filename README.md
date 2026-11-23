@@ -38,3 +38,10 @@ This repository currently documents the analysis described in the group report. 
 - `report/` â a public-safe, permission-cleared report or selected extracts, if appropriate
 - `figures/` â charts recreated from the analysis, if available
 
+## Results: Cardiovascular Disease Distribution
+
+The study included 4,238 participants. Of these, 644 (15.2%) had cardiovascular disease, while 3,594 (84.8%) did not.
+
+![Cardiovascular disease outcome distribution](cvd_outcome_distribution.png)
+
+

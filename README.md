@@ -50,3 +50,11 @@ The study included 4,238 participants. Of these, 644 (15.2%) had cardiovascular 
 - 644 participants (15.2%) had cardiovascular disease.
 - 3,594 participants (84.8%) did not have cardiovascular disease.
 - Logistic regression was used to investigate factors associated with cardiovascular disease.
+
+## Tools and Methods
+
+- **SAS:** Data analysis and logistic regression modelling.
+- **Descriptive statistics:** Summarising participant characteristics.
+- **Chi-square tests:** Exploring associations between categorical variables.
+- **Logistic regression:** Investigating factors associated with cardiovascular disease.
+- **Model selection:** Comparing full and reduced models using AIC.

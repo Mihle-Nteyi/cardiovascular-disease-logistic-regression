@@ -44,4 +44,9 @@ The study included 4,238 participants. Of these, 644 (15.2%) had cardiovascular 
 
 ![Cardiovascular disease outcome distribution](cvd_outcome_distribution.png)
 
+## Key Findings
 
+- 4,238 participants were included in the analysis.
+- 644 participants (15.2%) had cardiovascular disease.
+- 3,594 participants (84.8%) did not have cardiovascular disease.
+- Logistic regression was used to investigate factors associated with cardiovascular disease.
